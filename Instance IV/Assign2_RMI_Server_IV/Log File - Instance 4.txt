@@ -1,0 +1,17 @@
+ [2014-11-04 16:24:34] Starting Server - Instance 4
+ [2014-11-04 16:24:35] Port 2204 dedicated for the Creation of a New Service
+ [2014-11-04 16:24:35] New_Message_Service_Instance_4 created
+ [2014-11-04 16:24:35] Instance IV is Ready; Listening on Port 2204
+ [2014-11-04 16:24:35] File monitor started through monitor.start();
+ [2014-11-04 16:25:33] Message received by Instance IV [Hello [Original - Instance I] - Update by Instance II]
+ [2014-11-04 16:25:59] 
+********************************************************
+
+ [2014-11-04 16:25:59] 
+File Updated - [2014-11-04 16:25:59.928] 
+ [2014-11-04 16:26:00] File modified: C:\Users\Wachira\Desktop\29 October 2014\23 Oct 2014\CSC 315 2nd Assignment\Instance IV\Assign2_RMI_Server_IV\Infection_Data_File\Infection_Status.txt
+ [2014-11-04 16:26:00] Trying to find access Port: 2202 on IP address: 127.0.0.1
+ [2014-11-04 16:26:00] Looking up Service: New_Message_Service_Instance_2in the Registry
+ [2014-11-04 16:26:00] Message Sent - [Hello [Original - Instance I] - Update by Instance II - Update by Instance IV]
+ [2014-11-04 16:26:01] Hello [Original - Instance I] - Update by Instance II - Update by Instance IV
+ [2014-11-04 16:26:02] File monitor stopped through monitor.stop();

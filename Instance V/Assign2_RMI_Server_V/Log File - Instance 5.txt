@@ -1,0 +1,17 @@
+ [2014-11-04 16:24:37] Starting Server - Instance 5
+ [2014-11-04 16:24:38] Port 2205 dedicated for the Creation of a New Service
+ [2014-11-04 16:24:38] New_Message_Service_Instance_5 created
+ [2014-11-04 16:24:38] Instance IV is Ready; Listening on Port 2205
+ [2014-11-04 16:24:38] File monitor started through monitor.start();
+ [2014-11-04 16:25:26] Message received by Instance V [Hello [Original - Instance I] - Update by Instance II]
+ [2014-11-04 16:25:33] 
+********************************************************
+
+ [2014-11-04 16:25:33] 
+File Updated - [2014-11-04 16:25:33.522] 
+ [2014-11-04 16:25:34] File modified: C:\Users\Wachira\Desktop\29 October 2014\23 Oct 2014\CSC 315 2nd Assignment\Instance V\Assign2_RMI_Server_V\Infection_Data_File\Infection_Status.txt
+ [2014-11-04 16:25:34] Trying to find access Port: 2202 on IP address: 127.0.0.1
+ [2014-11-04 16:25:34] Looking up Service: New_Message_Service_Instance_2in the Registry
+ [2014-11-04 16:25:34] Message Sent - [Hello [Original - Instance I] - Update by Instance II - Update by Instance V]
+ [2014-11-04 16:25:57] Hello [Original - Instance I] - Update by Instance II - Update by Instance V
+ [2014-11-04 16:25:58] File monitor stopped through monitor.stop();

@@ -1,0 +1,23 @@
+ [2014-11-04 16:24:32] Starting Server - Instance 3
+ [2014-11-04 16:24:32] Port 2203 dedicated for the Creation of a New Service
+ [2014-11-04 16:24:32] New_Message_Service_Instance_3 created
+ [2014-11-04 16:24:32] Instance III is Ready; Listening on Port 2203
+ [2014-11-04 16:24:32] File monitor started through monitor.start();
+ [2014-11-04 16:25:00] Message received by Instance III [Hello [Original - Instance I]]
+ [2014-11-04 16:25:09] 
+********************************************************
+
+ [2014-11-04 16:25:09] 
+File Updated - [2014-11-04 16:25:09.115] 
+ [2014-11-04 16:25:09] File modified: C:\Users\Wachira\Desktop\29 October 2014\23 Oct 2014\CSC 315 2nd Assignment\Instance III\Assign2_RMI_Server_III\Infection_Data_File\Infection_Status.txt
+ [2014-11-04 16:25:09] Trying to find access Port: 2207 on IP address: 127.0.0.1
+ [2014-11-04 16:25:09] Looking up Service: New_Message_Service_Instance_7in the Registry
+ [2014-11-04 16:25:09] Message Sent - [Hello [Original - Instance I] - Update by Instance III]
+ [2014-11-04 16:25:36] Hello [Original - Instance I] - Update by Instance III
+ [2014-11-04 16:25:36] Message received by Instance III [Hello [Original - Instance I] - Update by Instance III - Update by Instance VII]
+ [2014-11-04 16:25:37] File monitor stopped through monitor.stop();
+ [2014-11-04 16:25:53] 
+********************************************************
+
+ [2014-11-04 16:25:53] 
+File Updated - [2014-11-04 16:25:53.814] 

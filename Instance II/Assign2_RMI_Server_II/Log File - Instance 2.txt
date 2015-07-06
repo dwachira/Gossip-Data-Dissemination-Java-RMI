@@ -1,0 +1,43 @@
+ [2014-11-04 16:24:29] Starting Server - Instance 2
+ [2014-11-04 16:24:29] Port 2202 dedicated for the Creation of a New Service
+ [2014-11-04 16:24:29] New_Message_Service_Instance_2 created
+ [2014-11-04 16:24:29] Instance II is Ready; Listening on Port 2202
+ [2014-11-04 16:24:30] File monitor started through monitor.start();
+ [2014-11-04 16:25:09] Message received by Instance II [Hello [Original - Instance I]]
+ [2014-11-04 16:25:26] 
+********************************************************
+
+ [2014-11-04 16:25:26] 
+File Updated - [2014-11-04 16:25:26.421] 
+ [2014-11-04 16:25:26] Message received by Instance II [Hello [Original - Instance I]]
+ [2014-11-04 16:25:26] File modified: C:\Users\Wachira\Desktop\29 October 2014\23 Oct 2014\CSC 315 2nd Assignment\Instance II\Assign2_RMI_Server_II\Infection_Data_File\Infection_Status.txt
+ [2014-11-04 16:25:26] Trying to find access Port: 2205 on IP address: 127.0.0.1
+ [2014-11-04 16:25:26] Looking up Service: New_Message_Service_Instance_5in the Registry
+ [2014-11-04 16:25:26] Message Sent - [Hello [Original - Instance I] - Update by Instance II]
+ [2014-11-04 16:25:33] Hello [Original - Instance I] - Update by Instance II
+ [2014-11-04 16:25:33] Trying to find access Port: 2204 on IP address: 127.0.0.1
+ [2014-11-04 16:25:33] Looking up Service: New_Message_Service_Instance_4in the Registry
+ [2014-11-04 16:25:33] Message Sent - [Hello [Original - Instance I] - Update by Instance II]
+ [2014-11-04 16:25:34] Message received by Instance II [Hello [Original - Instance I] - Update by Instance II - Update by Instance V]
+ [2014-11-04 16:25:57] 
+********************************************************
+
+ [2014-11-04 16:25:57] 
+File Updated - [2014-11-04 16:25:57.284] 
+ [2014-11-04 16:25:58] 
+********************************************************
+
+ [2014-11-04 16:25:58] 
+File Updated - [2014-11-04 16:25:58.56] 
+ [2014-11-04 16:25:59] Hello [Original - Instance I] - Update by Instance II
+ [2014-11-04 16:25:59] Trying to find access Port: 2201 on IP address: 127.0.0.1
+ [2014-11-04 16:26:00] Looking up Service: New_Message_Service_Instance_1in the Registry
+ [2014-11-04 16:26:00] Message Sent - [Hello [Original - Instance I] - Update by Instance II - Update by Instance V - Update by Instance II]
+ [2014-11-04 16:26:00] Message received by Instance II [Hello [Original - Instance I] - Update by Instance II - Update by Instance IV]
+ [2014-11-04 16:26:01] 
+********************************************************
+
+ [2014-11-04 16:26:01] 
+File Updated - [2014-11-04 16:26:01.953] 
+ [2014-11-04 16:26:02] Hello [Original - Instance I] - Update by Instance II - Update by Instance V - Update by Instance II
+ [2014-11-04 16:26:03] File monitor stopped through monitor.stop();

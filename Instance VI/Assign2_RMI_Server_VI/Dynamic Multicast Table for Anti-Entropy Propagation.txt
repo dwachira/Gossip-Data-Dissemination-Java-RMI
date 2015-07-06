@@ -1,0 +1,34 @@
+Instance :INSTANCE 1
+Uniform Resource Location:127.0.0.1
+Port for Access:2201
+Service or Procedure Name:New_Message_Service_Instance_1
+
+Instance :INSTANCE 2
+Uniform Resource Location:127.0.0.1
+Port for Access:2202
+Service or Procedure Name:New_Message_Service_Instance_2
+ 
+Instance :INSTANCE 3
+Uniform Resource Location:127.0.0.1
+Port for Access:2203
+Service or Procedure Name:New_Message_Service_Instance_3
+
+Instance :INSTANCE 4
+Uniform Resource Location:127.0.0.1
+Port for Access:2204
+Service or Procedure Name:New_Message_Service_Instance_4
+
+Instance :INSTANCE 5
+Uniform Resource Location:127.0.0.1
+Port for Access:2205
+Service or Procedure Name:New_Message_Service_Instance_5
+
+Instance :INSTANCE 6
+Uniform Resource Location:127.0.0.1
+Port for Access:2206
+Service or Procedure Name:New_Message_Service_Instance_6
+
+Instance :INSTANCE 7
+Uniform Resource Location:127.0.0.1
+Port for Access:2207
+Service or Procedure Name:New_Message_Service_Instance_7

@@ -1,0 +1,25 @@
+ [2014-11-04 16:24:45] Starting Server - Instance 1
+ [2014-11-04 16:24:45] Port 2201 dedicated for the Creation of a New Service
+ [2014-11-04 16:24:45] New_Message_Service created
+ [2014-11-04 16:24:45] Instance I is Ready; Listening on Port 2201
+ [2014-11-04 16:25:00] Random number selected is 3
+ [2014-11-04 16:25:00] Trying to find access Port: 2203 on IP address: 127.0.0.1
+ [2014-11-04 16:25:00] Looking up Service: New_Message_Service_Instance_3in the Registry
+ [2014-11-04 16:25:00] Message Sent - [Hello [Original - Instance I]]
+ [2014-11-04 16:25:09] Hello [Original - Instance I]
+ [2014-11-04 16:25:09] Random number selected is 2
+ [2014-11-04 16:25:09] Trying to find access Port: 2202 on IP address: 127.0.0.1
+ [2014-11-04 16:25:09] Looking up Service: New_Message_Service_Instance_2in the Registry
+ [2014-11-04 16:25:09] Message Sent - [Hello [Original - Instance I]]
+ [2014-11-04 16:25:26] Hello [Original - Instance I]
+ [2014-11-04 16:25:26] Random number selected is 2
+ [2014-11-04 16:25:26] Trying to find access Port: 2202 on IP address: 127.0.0.1
+ [2014-11-04 16:25:26] Looking up Service: New_Message_Service_Instance_2in the Registry
+ [2014-11-04 16:25:26] Message Sent - [Hello [Original - Instance I]]
+ [2014-11-04 16:25:58] Hello [Original - Instance I]
+ [2014-11-04 16:26:00] Message received by Instance I [Hello [Original - Instance I] - Update by Instance II - Update by Instance V - Update by Instance II]
+ [2014-11-04 16:26:02] 
+********************************************************
+
+ [2014-11-04 16:26:02] 
+File Updated - [2014-11-04 16:26:02.864]  [2014-11-04 16:26:02.864] 
